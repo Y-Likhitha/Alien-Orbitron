@@ -1,6 +1,6 @@
-# 🚀 Galaxy Blaster
+# 🚀 Alien Blaster
 
-**Galaxy Blaster** is a retro-style space shooter game built with **Python** and **Pygame**. Control your spaceship to destroy incoming alien invaders and rack up your score. With classic pixel visuals, sound effects, and a nostalgic arcade feel, this is a fun project for beginner game developers.
+**Alien Blaster** is a retro-style space shooter game built with **Python** and **Pygame**. Control your spaceship to destroy incoming alien invaders and rack up your score. With classic pixel visuals, sound effects, and a nostalgic arcade feel, this is a fun project for beginner game developers.
 
 ---
 
@@ -81,9 +81,9 @@ Make sure the folders `images/`, `audio/`, and `fonts/` are in the same location
 
 ## 📸 Screenshots
 
-Below is a sample screenshot of the game screen. Replace this with real screenshots if needed:
+Below is a sample screenshot of the game screen
 
-![Gameplay Screenshot]()
+![Gameplay Screenshot](game.png)
 
 ---
 
